@@ -1,1 +1,59 @@
+# 🚆 UK Railways Performance Analysis – Power BI Dashboard
+
+## 📌 Project Overview
+This project presents an end-to-end **Power BI analysis of UK railway operations**, focusing on revenue performance, passenger journeys, delays, and refunds.  
+The dashboard is designed for **executive-level monitoring and operational insights**, enabling stakeholders to identify high-performing routes, delay drivers, and revenue leakage due to refunds.
+
+---
+
+## 📊 Key Business Metrics
+- **Total Revenue:** £742K  
+- **Net Revenue:** £703K  
+- **Total Trips:** 32K  
+- **Average Ticket Price:** £23  
+- **Average Delay Minutes:** 49 mins  
+- **Total Refunds:** 1,118  
+- **Refund Revenue Impact:** £39K  
+- **Refund Rate:** ~5%
+
+---
+
+## 📈 Analytical Coverage
+
+### Revenue & Profitability Analysis
+- Revenue and Net Revenue trends by **month**, **ticket type**, and **ticket class**
+- Identification of **top 5 revenue-generating rail routes**
+- Analysis of **most and least profitable departure stations**
+- Profit per trip comparison across major routes
+
+### Operational Performance
+- Journey status breakdown: **On Time, Delayed, Cancelled**
+- Trip volume distribution by **day of week** and **time slots**
+- Peak travel periods (6 PM observed as highest traffic hour)
+- Route-wise delay minutes analysis
+
+### Refund & Delay Insights
+- Refund revenue by **delay reason** (technical issues, staffing, signal failure, traffic, weather)
+- Refund-heavy routes and stations
+- Relationship between delays and refund volume
+
+### Passenger & Ticket Behavior
+- Revenue split by **ticket class** (Standard vs First Class)
+- Ticket type performance (Advance, Anytime, Off-Peak)
+- Purchase channel analysis (Online vs Station)
+- Railcard-based journey patterns (Adult, Senior, Disabled)
+
+---
+
+## 🛠 Tools & Technologies
+- **Power BI Desktop**
+  - DAX Measures
+  - Data Modeling
+  - Drill-through & Interactive Filters
+- **Data Visualization & KPI Design**
+- **Business & Operational Analytics**
+
+---
+
+## 📂 Repository Structure
 
